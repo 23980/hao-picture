@@ -10,6 +10,9 @@ spring:
     url: jdbc:mysql://localhost:3306/hao_picture
     username: root
     password: root
+  servlet:
+    multipart:
+      max-file-size: 10MB
 mybatis-plus:
   configuration:
     # MyBatis 配置

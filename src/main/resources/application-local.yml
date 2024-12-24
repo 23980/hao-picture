@@ -1,0 +1,8 @@
+# 对象存储配置（需要从腾讯云获取）
+cos:
+  client:
+    host: https://hao1-1328642788.cos.ap-guangzhou.myqcloud.com
+    secret-id: AKIDpVyEF1aw3wb3GE0xujZL5jGZr0484ncM
+    secret-key: lMk17zeBbv550kJj7LL8mEXhnjZHm8HF
+    region: p-guangzhou
+    bucket: hao1-1328642788
